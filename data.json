@@ -16,7 +16,8 @@
             }
         ],
         "date": "2024-01-15",
-        "link": "https://www.minedu.gob.pe/evento-educacion"
+        "link": "https://www.minedu.gob.pe/evento-educacion",
+        "showAlert": true
     },
     {
         "title": "Nuevo Curso en Línea",
@@ -35,7 +36,8 @@
             }
         ],
         "date": "2024-02-10",
-        "link": "https://www.minedu.gob.pe/curso-en-linea"
+        "link": "https://www.minedu.gob.pe/curso-en-linea",
+        "showAlert": true
     },
     {
         "title": "Conferencia de alumnos",
@@ -54,7 +56,9 @@
             }
         ],
         "date": "2024-03-05",
-        "link": "https://www.minedu.gob.pe/conferencia-docentes"
+        "link": "https://www.minedu.gob.pe/conferencia-docentes",
+        "showAlert": true
+        
     },
      {
         "title": "Conferencia de Directivos",
@@ -73,7 +77,8 @@
             }
         ],
         "date": "2024-03-05",
-        "link": "https://www.minedu.gob.pe/conferencia-docentes"
+        "link": "https://www.minedu.gob.pe/conferencia-docentes",
+         "showAlert": true
     },
      {
         "title": "Conferencia de Docentes",
@@ -92,7 +97,8 @@
             }
         ],
         "date": "2024-03-05",
-        "link": "https://www.minedu.gob.pe/conferencia-docentes"
+        "link": "https://www.minedu.gob.pe/conferencia-docentes",
+         "showAlert": true
     },
      {
         "title": "Conferencia de Docentes",
@@ -111,7 +117,8 @@
             }
         ],
         "date": "2024-03-05",
-        "link": "https://www.minedu.gob.pe/conferencia-docentes"
+        "link": "https://www.minedu.gob.pe/conferencia-docentes",
+         "showAlert": true
     },
      {
         "title": "Conferencia de Docentes",
@@ -130,7 +137,8 @@
             }
         ],
         "date": "2024-03-05",
-        "link": "https://www.minedu.gob.pe/conferencia-docentes"
+        "link": "https://www.minedu.gob.pe/conferencia-docentes",
+         "showAlert": false
     },
      {
         "title": "Conferencia de Docentes",
@@ -149,7 +157,8 @@
             }
         ],
         "date": "2024-03-05",
-        "link": "https://www.minedu.gob.pe/conferencia-docentes"
+        "link": "https://www.minedu.gob.pe/conferencia-docentes",
+         "showAlert": false
     },
      {
         "title": "Conferencia de Docentes",
@@ -168,7 +177,8 @@
             }
         ],
         "date": "2024-03-05",
-        "link": "https://www.minedu.gob.pe/conferencia-docentes"
+        "link": "https://www.minedu.gob.pe/conferencia-docentes",
+         "showAlert": false
     },
      {
         "title": "Conferencia de Docentes",
@@ -187,7 +197,8 @@
             }
         ],
         "date": "2024-03-05",
-        "link": "https://www.minedu.gob.pe/conferencia-docentes"
+        "link": "https://www.minedu.gob.pe/conferencia-docentes",
+         "showAlert": false
     },
      {
         "title": "Conferencia de Docentes",
@@ -206,7 +217,8 @@
             }
         ],
         "date": "2024-03-05",
-        "link": "https://www.minedu.gob.pe/conferencia-docentes"
+        "link": "https://www.minedu.gob.pe/conferencia-docentes",
+         "showAlert": false
     },
      {
         "title": "Conferencia de Docentes",
@@ -225,7 +237,8 @@
             }
         ],
         "date": "2024-03-05",
-        "link": "https://www.minedu.gob.pe/conferencia-docentes"
+        "link": "https://www.minedu.gob.pe/conferencia-docentes",
+         "showAlert": false
     },
      {
         "title": "Conferencia de Docentes",
@@ -244,6 +257,7 @@
             }
         ],
         "date": "2024-03-05",
-        "link": "https://www.minedu.gob.pe/conferencia-docentes"
+        "link": "https://www.minedu.gob.pe/conferencia-docentes",
+         "showAlert": false
     }
 ]
