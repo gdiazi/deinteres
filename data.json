@@ -1,84 +1,62 @@
 [
     {
-        "title": "Conoce la oferta educativa en todo el Perú",
-        "description": "Consulta información sobre colegios, institutos y universidades.",
-        "date": "2024-11-05",
-        "link": "https://www.minedu.gob.pe/oferta-educativa/"
-        
+        "title": "Evento de Educación",
+        "description": [
+            "Este evento se enfocará en las nuevas metodologías de enseñanza.",
+            "Contará con ponentes internacionales.",
+            "Habrá talleres prácticos y sesiones de preguntas."
+        ],
+        "date": "2024-01-15",
+        "link": "https://www.minedu.gob.pe/evento-educacion"
     },
     {
-        "title": "Calendario Escolar 2024",
-        "description": "Infórmate sobre las dates del calendario escolar para el próximo año.",
-        "date": "2024-11-05",
-        "link": "https://www.minedu.gob.pe/calendario-escolar/"
-        
+        "title": "Nuevo Curso en Línea",
+        "description": [
+            "Curso disponible para todos los niveles educativos.",
+            "Certificación al completar el curso.",
+            "Contenido en video y materiales descargables."
+        ],
+        "date": "2024-02-10",
+        "link": "https://www.minedu.gob.pe/curso-en-linea"
     },
     {
-        "title": "Becas y Créditos Educativos",
-        "description": "Accede a oportunidades de financiamiento para tu educación.",
-        "date": "2024-11-06",
-        "link": "https://www.minedu.gob.pe/becas/"
-        
-        
+        "title": "Conferencia de Docentes",
+        "description": [
+            "Conferencia anual para el desarrollo profesional de los docentes.",
+            "Participación de expertos en educación.",
+            "Oportunidades de networking y colaboración."
+        ],
+        "date": "2024-03-05",
+        "link": "https://www.minedu.gob.pe/conferencia-docentes"
     },
     {
-        "title": "Conoce la oferta educativa en todo el Perú",
-        "description": "Consulta información sobre colegios, institutos y universidades.",
-        "date": "2024-11-06",
-        "link": "https://www.minedu.gob.pe/oferta-educativa/"
-        
+        "title": "Inscripción a Exámenes",
+        "description": [
+            "Inscripciones abiertas para el examen nacional.",
+            "Disponible para todos los estudiantes de secundaria.",
+            "Consulta los requisitos y fechas límite."
+        ],
+        "date": "2024-04-01",
+        "link": "https://www.minedu.gob.pe/inscripcion-examenes"
     },
     {
-        "title": "Calendario Escolar 2024",
-        "description": "Infórmate sobre las dates del calendario escolar para el próximo año.",
-        "date": "2024-11-07",
-        "link": "https://www.minedu.gob.pe/calendario-escolar/"
-        
+        "title": "Feria de Ciencias",
+        "description": [
+            "Exposición de proyectos de ciencia y tecnología.",
+            "Abierta a estudiantes de todas las edades.",
+            "Premios para los proyectos más innovadores."
+        ],
+        "date": "2024-05-15",
+        "link": "https://www.minedu.gob.pe/feria-ciencias"
     },
     {
-        "title": "Becas y Créditos Educativos",
-        "description": "Accede a oportunidades de financiamiento para tu educación.",
-        "date": "2024-11-07",
-        "link": "https://www.minedu.gob.pe/becas/"
-        
-    },
-    {
-        "title": "Conoce la oferta educativa en todo el Perú",
-        "description": "Consulta información sobre colegios, institutos y universidades.",
-        "date": "2024-11-07",
-        "link": "https://www.minedu.gob.pe/oferta-educativa/"
-        
-    },
-    {
-        "title": "Calendario Escolar 2024",
-        "description": "Infórmate sobre las dates del calendario escolar para el próximo año.",
-        "date": "2024-11-08",
-        "link": "https://www.minedu.gob.pe/calendario-escolar/"        
-    },
-    {
-        "title": "Becas y Créditos Educativos",
-        "description": "Accede a oportunidades de financiamiento para tu educación.",
-        "date": "2024-11-08",
-        "link": "https://www.minedu.gob.pe/becas/"
-        
-    },
-    {
-        "title": "Guillermo y su educación",
-        "description": "Accede a oportunidades de financiamiento para tu educación.",
-        "date": "2024-11-08",
-        "link": "https://www.minedu.gob.pe/becas/"
-        
+        "title": "Actualización Curricular",
+        "description": [
+            "Publicación de la última actualización del currículo escolar.",
+            "Incorporación de nuevas competencias y habilidades.",
+            "Disponible en el portal del Ministerio de Educación."
+        ],
+        "date": "2024-06-20",
+        "link": "https://www.minedu.gob.pe/actualizacion-curricular"
     }
-    
-
-
-    
-
-
-
-
-
-
-
-
 ]
