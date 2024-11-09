@@ -2,9 +2,18 @@
     {
         "title": "Evento de Educación",
         "description": [
-            "Este evento se enfocará en las nuevas metodologías de enseñanza.",
-            "Contará con ponentes internacionales.",
-            "Habrá talleres prácticos y sesiones de preguntas."
+            {
+                "text": "Metodologías de enseñanza modernas",
+                "url": "https://www.minedu.gob.pe/metodologias-ensenanza"
+            },
+            {
+                "text": "Ponentes internacionales confirmados",
+                "url": "https://www.minedu.gob.pe/ponentes-internacionales"
+            },
+            {
+                "text": "Talleres prácticos para docentes",
+                "url": "https://www.minedu.gob.pe/talleres-practicos"
+            }
         ],
         "date": "2024-01-15",
         "link": "https://www.minedu.gob.pe/evento-educacion"
@@ -12,9 +21,18 @@
     {
         "title": "Nuevo Curso en Línea",
         "description": [
-            "Curso disponible para todos los niveles educativos.",
-            "Certificación al completar el curso.",
-            "Contenido en video y materiales descargables."
+            {
+                "text": "Curso disponible para todos los niveles",
+                "url": "https://www.minedu.gob.pe/curso-niveles"
+            },
+            {
+                "text": "Certificación al completar el curso",
+                "url": "https://www.minedu.gob.pe/certificacion-curso"
+            },
+            {
+                "text": "Contenido en video y materiales descargables",
+                "url": "https://www.minedu.gob.pe/materiales-curso"
+            }
         ],
         "date": "2024-02-10",
         "link": "https://www.minedu.gob.pe/curso-en-linea"
@@ -22,41 +40,20 @@
     {
         "title": "Conferencia de Docentes",
         "description": [
-            "Conferencia anual para el desarrollo profesional de los docentes.",
-            "Participación de expertos en educación.",
-            "Oportunidades de networking y colaboración."
+            {
+                "text": "Desarrollo profesional para docentes",
+                "url": "https://www.minedu.gob.pe/desarrollo-profesional"
+            },
+            {
+                "text": "Expertos en educación participarán",
+                "url": "https://www.minedu.gob.pe/expertos-educacion"
+            },
+            {
+                "text": "Networking y colaboración",
+                "url": "https://www.minedu.gob.pe/networking-docentes"
+            }
         ],
         "date": "2024-03-05",
         "link": "https://www.minedu.gob.pe/conferencia-docentes"
-    },
-    {
-        "title": "Inscripción a Exámenes",
-        "description": [
-            "Inscripciones abiertas para el examen nacional.",
-            "Disponible para todos los estudiantes de secundaria.",
-            "Consulta los requisitos y fechas límite."
-        ],
-        "date": "2024-04-01",
-        "link": "https://www.minedu.gob.pe/inscripcion-examenes"
-    },
-    {
-        "title": "Feria de Ciencias",
-        "description": [
-            "Exposición de proyectos de ciencia y tecnología.",
-            "Abierta a estudiantes de todas las edades.",
-            "Premios para los proyectos más innovadores."
-        ],
-        "date": "2024-05-15",
-        "link": "https://www.minedu.gob.pe/feria-ciencias"
-    },
-    {
-        "title": "Actualización Curricular",
-        "description": [
-            "Publicación de la última actualización del currículo escolar.",
-            "Incorporación de nuevas competencias y habilidades.",
-            "Disponible en el portal del Ministerio de Educación."
-        ],
-        "date": "2024-06-20",
-        "link": "https://www.minedu.gob.pe/actualizacion-curricular"
     }
 ]
