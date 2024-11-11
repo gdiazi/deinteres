@@ -20,22 +20,22 @@
         "showAlert": true
     },
     {
-        "title": "Nuevo Curso en Línea",
+        "title": "SCC N° 010-2024-PMESUT “SERVICIO DE CAPACITACIÓN EN GESTIÓN PEDAGÓGICA, INSTITUCIONAL Y TIC PARA LAS ESCUELAS PROFESIONALES DE TECNOLOGÍA MÉDICA Y ENFERMERÍA EN LA UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS.”",
         "description": [
             {
-                "text": "Curso disponible para todos los niveles",
-                "url": "https://www.minedu.gob.pe/curso-niveles"
+                "text": "Aviso - Expresión de Interés",
+                "url": "https://cdn.www.gob.pe/uploads/document/file/7197645/6163793-aviso-solicitud-expres-interes-scc-010-2024.pdf?v=1731102916"
             },
             {
-                "text": "Certificación al completar el curso",
-                "url": "https://www.minedu.gob.pe/certificacion-curso"
+                "text": "Formularios ",
+                "url": "https://cdn.www.gob.pe/uploads/document/file/7197646/6163793-formularios-scc-010-2024.doc?v=1731102917"
             },
             {
-                "text": "Contenido en video y materiales descargables",
-                "url": "https://www.minedu.gob.pe/materiales-curso"
+                "text": "Resumen Ejecutivo",
+                "url": "https://cdn.www.gob.pe/uploads/document/file/7197648/6163793-resumen-ejecutivo-unmsm-pedagogia-y-tics.docx?v=1731102917"
             }
         ],
-        "date": "2024-02-10",
+        "date": "2024-11-07",
         "link": "https://www.minedu.gob.pe/curso-en-linea",
         "showAlert": true
     },
