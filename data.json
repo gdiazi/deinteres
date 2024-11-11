@@ -99,7 +99,23 @@
         "date": "2024-11-07",
         "link": "https://www.minedu.gob.pe/conferencia-docentes",
          "showAlert": true
-    }
+    },
+    {
+        "title": "SCC N° 009-2024-PMESUT “SERVICIO DE CAPACITACIÓN ESPECIALIZADA EN BIOTECNOLOGÍAS PARA CAMÉLIDOS SUDAMERICANOS PARA DOCENTES INVESTIGADORES DE LA FACULTAD DE MEDICINA VETERINARIA Y ZOOTECNIA DE LA UNIVERSIDAD NACIONAL DEL ALTIPLANO – PUNO”",
+        "description": [
+            {
+                "text": "Aviso - Expresión de Interés",
+                "url": "https://cdn.www.gob.pe/uploads/document/file/7195369/6162760-aviso-solicitud-expres-interes-scc-009-2024.pdf?v=1731095514"
+            },
+            {
+                "text": "Formularios",
+                "url": "https://cdn.www.gob.pe/uploads/document/file/7195370/6162760-formularios-scc-009-2024.doc?v=17310955150"
+            }
+        ],
+        "date": "2024-11-07",
+        "link": "https://www.minedu.gob.pe/conferencia-docentes",
+         "showAlert": true
+    },
  
      
 ]
