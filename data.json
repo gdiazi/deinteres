@@ -99,6 +99,16 @@
         "date": "2024-11-07",
         "link": "https://www.minedu.gob.pe/conferencia-docentes",
          "showAlert": false
+    },
+     {
+        "title": "CP 048-2024-PMESUT",
+        "description": [
+            { "text": "Pliego de Aclaraciones", "url": "https://example.com/pliego-aclaraciones" },
+            { "text": "Pliego de Enmiendas", "url": "https://example.com/pliego-enmiendas" }
+        ],
+        "date": "2024-11-06",
+        "link": "https://example.com/CP048",
+        "showAlert": false
     }
      
 ]
