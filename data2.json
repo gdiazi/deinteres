@@ -1,13 +1,16 @@
 [
-    {
-        "numero": 1,
-        "proceso": "https://www.minedu.gob.pe/transparencia/2024/pdf/DICIEMBRE/021-UE-024-REQ.pdf",
-        "cronograma": "https://www.minedu.gob.pe/transparencia/2024/pdf/DICIEMBRE/CRONOGRAMA-021-2024.pdf",
-        "codigo": "021-UE-024",
-        "convocatoria": "UN PRACTICANTE PROFESIONAL PARA LA UNIDAD DE ESTADÍSTICA",
-        "requisitos": "https://www.minedu.gob.pe/transparencia/2024/pdf/DICIEMBRE/REQ-021-UE-024.pdf",
-        "conocimientos": "",
-        "entrevista": "",
-        "resultados": ""
-    }
+{
+    "title": "Publicación de resultados preliminares ",
+    "sections": [
+      {
+        "label": "Resultados preliminares del primer momento",
+        "url": "https://www.gob.pe/minedu"
+      },
+      {
+        "label": "Resultados preliminares del segundo momento",
+        "url": "#"
+      }
+    ],
+    "prepublication_date": "16 de noviembre de 2024"
+  }
 ]
