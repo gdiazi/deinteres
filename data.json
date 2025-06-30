@@ -1,6 +1,114 @@
 [
-          
-           
+       
+   
+
+         {
+      "title": "CP PE-L1268-P00263 ",
+      "description": "Servicio de suscripción de licencias Google Workspace para la Unidad Ejecutora 118",
+      "date": "2025-06-30T00:00:00",
+      "links": [
+         {
+            "text": "Aviso convocatoria",
+            "url": "https://cdn.www.gob.pe/uploads/document/file/8290323/6885276-llamado-a-licitacion-camelidos-puno.pdf?v=1751295976",
+            "isNew": true
+         },
+           {
+            "text": "Lineamientos",
+            "url": "https://cdn.www.gob.pe/uploads/document/file/8295706/6917562-lineamientos-de-suscripcion-licencias-pe-l1227-p00175.docx?v=1751322338",
+            "isNew": true
+         },
+              {
+            "text": "Términos de Referencia",
+            "url": "https://cdn.www.gob.pe/uploads/document/file/8295707/6917562-tdr-licnecia-google-workspace.pdf?v=1751322338",
+            "isNew": true
+         }
+      ]
+      
+     
+   }, 
+      {
+      "title": "CP PE-L1227-P00175",
+      "description": "Servicio de suscripción de licencias Google Workspace para la Unidad Ejecutora 118",
+      "date": "2025-06-30T00:00:00",
+      "links": [
+         {
+            "text": "Aviso convocatoria",
+            "url": "https://cdn.www.gob.pe/uploads/document/file/8290323/6885276-llamado-a-licitacion-camelidos-puno.pdf?v=1751295976",
+            "isNew": true
+         },
+           {
+            "text": "Lineamientos",
+            "url": "https://cdn.www.gob.pe/uploads/document/file/8295706/6917562-lineamientos-de-suscripcion-licencias-pe-l1227-p00175.docx?v=1751322338",
+            "isNew": true
+         },
+              {
+            "text": "Términos de Referencia",
+            "url": "https://cdn.www.gob.pe/uploads/document/file/8295707/6917562-tdr-licnecia-google-workspace.pdf?v=1751322338",
+            "isNew": true
+         }
+      ]
+      
+     
+   }, 
+   
+   {
+      "title": "LPI PE-L1227-P00176",
+      "description": "Saldo de obra del proyecto creación del servicio de laboratorios en biotecnologías para camélidos sudamericanos en el CIP la raya de la universidad nacional del altiplano Puno distrito de Santa Rosa provincia de Melgar departamento de Puno",
+      "date": "2025-06-29T00:00:00",
+      "links": [
+         {
+            "text": "Llamado a Licitación",
+            "url": "https://cdn.www.gob.pe/uploads/document/file/8290323/6885276-llamado-a-licitacion-camelidos-puno.pdf?v=1751295976",
+            "isNew": true
+         }
+      ]
+      
+     
+   }, 
+      {
+      "title": "LPI PE-L1227-P00108",
+      "description": "Adquisición de Equipos de Electrónica para el IEST 4 de Junio de 1821 - Jaén del proyecto: 2411125 - Mejoramiento del servicio de Educación Superior Tecnológica del IESTP 4 de junio de 1821 del distrito de Jaén - provincia de Jaén - departamento de Cajamarca",
+      "date": "2025-06-29T00:00:00",
+      "links": [
+         {
+            "text": "Llamado a Licitación",
+            "url": "https://cdn.www.gob.pe/uploads/document/file/8290164/5200254-llamado-de-licitacion-p00108-equipos-de-medicion.pdf?v=1751295162",
+            "isNew": true
+         }
+      ]
+      
+     
+   }, 
+
+  {
+      "title": "LPI PE-L1227-P00107",
+      "description": "Adquisición de Equipos de Electrónica para el IEST 4 de Junio de 1821 - Jaén del proyecto: 2411125 - Mejoramiento del servicio de Educación Superior Tecnológica del IESTP 4 de junio de 1821 del distrito de Jaén - provincia de Jaén - departamento de Cajamarca",
+      "date": "2025-06-29T00:00:00",
+      "links": [
+         {
+            "text": "Llamado a Licitación",
+            "url": "https://cdn.www.gob.pe/uploads/document/file/8290163/5200254-llamado-de-licitacion-p00107-equipos-de-laboratorio.pdf?v=1751295161",
+            "isNew": true
+         }
+      ]
+      
+     
+   }, 
+
+  {
+      "title": "LPI PE-L1227-P00106",
+      "description": "Adquisición de Equipos de Electrónica para el IEST 4 de Junio de 1821 - Jaén del proyecto: 2411125 - Mejoramiento del servicio de Educación Superior Tecnológica del IESTP 4 de junio de 1821 del distrito de Jaén - provincia de Jaén - departamento de Cajamarca",
+      "date": "2025-06-29T00:00:00",
+      "links": [
+         {
+            "text": "Llamado a Licitación",
+            "url": "https://cdn.www.gob.pe/uploads/document/file/8290162/5200254-llamado-de-licitacion-p00106-equipos-de-electronica.pdf?v=1751295159",
+            "isNew": true
+         }
+      ]
+      
+     
+   },          
 {
       "title": "LPN PE-L1227-P00048",
       "description": "Saldo de obra del proyecto: Contratación y equipamiento del instituto de medicina tropical de la universidad nacional Toribio Rodríguez de Mendoza de Amazonas, sede Chachapoyas, provincia de Chachapoyas, región Amazonas",
