@@ -1,6 +1,24 @@
 [
        
-   
+    {
+      "title": "LPI PE-L1227-P00176",
+      "description": "Saldo de obra del proyecto creación del servicio de laboratorios en biotecnologías para camélidos sudamericanos en el CIP la raya de la universidad nacional del altiplano Puno distrito de Santa Rosa provincia de Melgar departamento de Puno",
+      "date": "2025-06-30T00:00:00",
+      "links": [
+         {
+            "text": "Documentos de Licitacion",
+            "url": "https://cdn.www.gob.pe/uploads/document/file/8300166/6885276-documentos-de-licitacion.pdf?v=1751387946",
+            "isNew": true
+         },
+           {
+            "text": "Requerimiento técnico mínimo",
+            "url": "https://cdn.www.gob.pe/uploads/document/file/8300167/6885276-rtm-saldo-de-obra-puno.pdf?v=1751387948",
+            "isNew": true
+         }
+      ]
+      
+     
+   }, 
 
          {
       "title": "CP PE-L1268-P00263 ",
