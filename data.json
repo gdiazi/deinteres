@@ -1,5 +1,23 @@
 [
-       
+       {
+      "title": "LPI PE-L1227-P00107",
+      "description": "Adquisición de Equipos de Laboratorio para el IEST 4 de Junio de 1821 - Jaén del Proyecto: 2411125 - Mejoramiento del Servicio de Educación Superior Tecnológica del IESTP 4 de Junio de 1821 del Distrito de Jaén - Provincia de Jaén - Departamento de Cajamarca",
+      "date": "2025-06-30T00:00:00",
+      "links": [
+         {
+            "text": "Documentos de Licitacion",
+            "url": "https://cdn.www.gob.pe/uploads/document/file/8305385/6922854-pe-l1227-p00107-ddl-laboratorio.pdf?v=1751467889",
+            "isNew": true
+         },
+           {
+            "text": "Especifiaciones Técnicas",
+            "url": "https://cdn.www.gob.pe/uploads/document/file/8305387/6922854-lpi-pe-l1227-p00107-laboratorio.xlsx?v=1751467890",
+            "isNew": true
+         }
+      ]
+      
+     
+   }, 
     {
       "title": "LPI PE-L1227-P00176",
       "description": "Saldo de obra del proyecto creación del servicio de laboratorios en biotecnologías para camélidos sudamericanos en el CIP la raya de la universidad nacional del altiplano Puno distrito de Santa Rosa provincia de Melgar departamento de Puno",
